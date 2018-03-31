@@ -1,0 +1,13 @@
+html,body{
+  background-color: #191919;
+  color: #fff;
+}
+
+.marg-t-50{
+  margin-top: 50px;
+}
+
+textarea {
+    resize: none;
+    color: #000;
+}
